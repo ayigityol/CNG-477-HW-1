@@ -1,0 +1,27 @@
+# filename
+output2.ppm
+# width height
+1024 1024
+# eye coord
+0 3 0
+# gaze
+0 0 -1
+# up vector
+0 1 0
+# distance of eye to image
+1
+# left right top bottom
+-1 1 1 -1
+# number of spheres
+5
+# center radius and r,g,b color
+0 -1000 0 1000 255 255 255
+0 1 -5 1 255 0 0
+4 3 -10 3 0 255 0
+-2 2 -7 2 0 0 255
+-7 4 -12 4 255 255 0
+# number of light sources
+2
+# light pos, light color
+100 100 50 200 200 200
+-100 100 50 200 200 200
